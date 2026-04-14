@@ -30,3 +30,4 @@ Running parser from cmd (too can run from UI)<br>
 
 [Watch a demo on YouTube](https://www.youtube.com/watch?v=YFpGmtWdV7Q)
 
+* Presentation have a limit of ten instructions.
