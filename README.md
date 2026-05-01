@@ -1,4 +1,4 @@
-# Auto-Test v.1.0
+# Auto-Test v.1.1
 Application that automatize graphically Selenium test
 
 Auto Test is an application that simplifies automation with Selenium, allowing you to go from design to execution in minutes.
@@ -29,5 +29,6 @@ Running parser from cmd (too can run from UI)<br>
 ![sc-2](https://github.com/user-attachments/assets/15d3aa3c-46c3-40a5-a596-4f1416870883)
 
 [Watch a demo on YouTube](https://www.youtube.com/watch?v=YFpGmtWdV7Q)
+[More samples](https://www.youtube.com/watch?v=u1ZqMyy3Nyo)
 
 * Presentation have a limit of ten instructions.
