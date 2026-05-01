@@ -22,7 +22,7 @@ Build using Selenium 4.43
 <hr>
 UI for build test steps<br>
 
-![sc3](https://github.com/user-attachments/assets/e6198be9-e43f-4a88-8e7f-5a9e69c7c06b)
+<img width="1282" height="720" alt="auto-test-ui" src="https://github.com/user-attachments/assets/7e66a94b-cf42-45bd-af2c-0987ae487631" />
 
 Running parser from cmd (too can run from UI)<br>
 
