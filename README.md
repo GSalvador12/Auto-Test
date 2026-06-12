@@ -1,4 +1,4 @@
-# Auto-Test v.1.2
+# Auto-Test
 Application that automatize graphically Selenium test
 
 Auto Test is an application that simplifies automation with Selenium, allowing you to go from design to execution in minutes.
