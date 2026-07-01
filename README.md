@@ -32,6 +32,6 @@ Running parser from cmd (too can run from UI)<br>
 
 [More samples](https://www.youtube.com/watch?v=u1ZqMyy3Nyo)
 
-[SQL selecting and watch] (https://youtu.be/Vrq9b1pmUnw)
+[SQL selecting and watch](https://youtu.be/Vrq9b1pmUnw)
 
 * Presentation have a limit of fifteen instructions.
